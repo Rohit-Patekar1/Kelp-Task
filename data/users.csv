@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.street,address.city,address.state,address.zip,employer.name,employer.department,notes.favoriteColor
+John,Doe,28,123 Maple St,Springfield,IL,62704,Acme Corp,Engineering,blue
+Jane,Smith,34,456 Oak Ave,Shelbyville,TN,38103,Globex Inc,Marketing,green
+Bob,Johnson,18,789 Pine Rd,Ogden,UT,84404,Initech,Support,red
+Alice,Williams,62,321 Birch Ln,Centerville,OH,45459,Hooli,Product,purple
+Michael,Brown,45,654 Cedar Blvd,Franklin,TN,37064,Stark Industries,R&D,orange
