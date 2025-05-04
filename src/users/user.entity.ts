@@ -12,11 +12,9 @@ export class User {
   @Column('int')
   age: number;
 
-  // <— allow null here
   @Column({ type: 'jsonb', nullable: true })
   address: Record<string, any> | null;
 
-  // <— and here
   @Column({ type: 'jsonb', name: 'additional_info', nullable: true })
   additionalInfo: Record<string, any> | null;
 }
